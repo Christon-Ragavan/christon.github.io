@@ -97,7 +97,7 @@ author:
   avatar           : "/images/casual_ds.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg
   bio              : "Portfolio"
   location         : "Germany"
-  email            : "christonragavan@gmail.com"
+  #email            : "christonragavan@gmail.com"
 
   links:
     - label: "Email"
