@@ -20,7 +20,7 @@ title                    : "Christon Ragavan"
 title_separator          : "-"
 subtitle                 : "The AI Blog" # site tagline that appears below site title in masthead
 name                     : "Christon Ragavan"
-description              : "Portfolio|AI Enthusiast"
+description              : "AI Enthusiast"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /projects # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -212,7 +212,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: +5230+01322 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
