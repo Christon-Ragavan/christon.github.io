@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /about/"
+permalink: /about/
 ---
 
 I am working as a Research Assistant at Fraunhofer IDMT in Semantic Music Technology research group. 
