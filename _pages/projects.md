@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "AI posts by tags"
+title: "AI Posts by Tags"
 author_profile: true
 ---
 
@@ -15,4 +15,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
-
