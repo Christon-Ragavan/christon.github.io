@@ -94,10 +94,11 @@ analytics:
 # Site Author
 author:
   name             : "Christon Ragavan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/casual_ds.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg
   bio              : "Portfolio"
   location         : "Germany"
-  email            :
+  email            : "christonragavan@gmail.com"
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -117,6 +118,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-lindein"
+      url: "https://www.linkedin.com/in/christon-ragavan/"
 
 # Site Footer
 footer:
@@ -279,3 +283,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
