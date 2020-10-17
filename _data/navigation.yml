@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
 #  - title: "About"
 #    url: /about/
 #  - title: "Aboutss"
@@ -9,8 +11,7 @@ main:
 #  - title: "Projectss"
 #    url: /_pages/projects/
 
-   - title: "Quick"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
