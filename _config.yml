@@ -97,7 +97,6 @@ author:
   avatar           : "/images/casual_ds.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg
   bio              : "AI Enthusiast"
   location         : "Germany"
-  email            : "christonragavan@gmail.com"
 
   links:
     - label: "Email"
@@ -118,9 +117,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-lindein-in"
-      url: "https://www.linkedin.com/in/christon-ragavan/"
+
 
 # Site Footer
 footer:
