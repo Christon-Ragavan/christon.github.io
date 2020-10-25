@@ -1,7 +1,7 @@
 ---
-layout: archive
-permalink: /projects/
 title: "Projects Posts by Tags"
+permalink: /projects/
+layout: archive
 author_profile: true
 ---
 # Check Projects Posts by Tags
